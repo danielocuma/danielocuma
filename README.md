@@ -1,10 +1,10 @@
 # 👾 Welcome to Daniel's GitHub
 
 <p align="center">
-Estudante de Ciência da Computação, em busca de estágio. Focado em aprendizado contínuo, desenvolvimento de projetos e evolução técnica, com interesse em back-end e banco de dados.
+Estudante de Ciência da Computação, em busca de estágio. Focado em aprendizado contínuo e desenvolvimento de projetos.
 </p>
 
-<h3 align="left">Connect</h3>
+<h3 align="left">Contact</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:daniel.ocuma@gmail.com)
 
