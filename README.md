@@ -25,7 +25,5 @@ Estudante de Ciência da Computação, em busca de estágio. Focado em aprendiza
 <div align="center">
   <h3>GitHub Stats</h3>
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danielocuma&hide_title=true&show_icons=true&count_private=true&bg_color=000&title_color=FF00F6&text_color=FFF&icon_color=FF00F6" />
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielocuma&layout=compact&bg_color=000&title_color=FF00F6&text_color=8B8B8B" />
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=danielocuma&show_icons=true&theme=tokyonight)
 </div>
