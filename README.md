@@ -5,4 +5,4 @@ Hello, I’m Daniel, a Computer Science student seeking an internship.
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielocuma&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=danielocuma&show_icons=true)
