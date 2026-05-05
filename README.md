@@ -1,4 +1,4 @@
-# 👾 Welcome to Daniel's GitHub
+# 👾 Welcome to my profile
 
 <p align="center">
 Estudante de Ciência da Computação, em busca de estágio. Focado em aprendizado contínuo e desenvolvimento de projetos.
