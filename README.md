@@ -1,4 +1,4 @@
-# 👾 Welcome to my profile
+# 👾 Bem vindo ao meu GitHub
 
 <p align="center">
 Estudante de Ciência da Computação, em busca de estágio. Focado em aprendizado contínuo e desenvolvimento de projetos.
@@ -19,9 +19,9 @@ Estudante de Ciência da Computação, em busca de estágio. Focado em aprendiza
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25"/>
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="25" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="25"/>
   <img width="8" />
 </div>
 
