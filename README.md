@@ -1,6 +1,6 @@
 # 👾 Backend Developer
 
-<p align="center">
+<p>
 Computer Science Student
 </p>
 
