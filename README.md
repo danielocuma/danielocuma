@@ -8,7 +8,7 @@
 </div>
 
 <p align="center" style="margin-top: 10px;">
-Computer Science student focused on building scalable RESTful APIs using <b>Java & Spring Boot</b>!
+Computer Science student 
 </p>
 
 
